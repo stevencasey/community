@@ -107,6 +107,13 @@
   lastName: Ou
   affiliation: NVIDIA
   email: rou@nvidia.com
+  
+- github: stevencasey
+  slack: scasey
+  firstName: Steve
+  lastName: Casey
+  affiliation: Groupon
+  email: scasey@groupon.com
 
 - github: songole
   slack: osm1c
